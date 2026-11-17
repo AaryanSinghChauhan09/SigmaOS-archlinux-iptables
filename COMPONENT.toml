@@ -3,7 +3,7 @@ name = "SigmaOS-archlinux-iptables"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "archlinux-iptables component"
+description = "SigmaOS component repository"
 upstream = []
 
 [contract]
